@@ -15,7 +15,7 @@
    <a href="https://www.linkedin.com/in/keshav-agarwal-b5874b257/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-   <a href="https://www.codechef.com/users/keshav2022ug10">
+   <a href="https://www.codechef.com/users/ka45">
     <img src="https://img.shields.io/badge/CodeChef-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
 </a>
 
