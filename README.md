@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/CodeChef-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
 </a>
 
-<a href="https://www.codechef.com/users/keshav2022ug10">
+<a href="https://codeforces.com/profile/ka45">
     <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
 </a>
 
