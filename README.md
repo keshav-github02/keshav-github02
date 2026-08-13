@@ -80,24 +80,20 @@ A multithreaded **C++20** telemetry engine that ingests media-playback events ov
 An AI answer engine that pairs web retrieval with LLM filtering: the **Tavily API** plus cosine similarity narrows results to the top 5 relevant sources, and **Google Gemini** re-ranks and synthesizes them into context-aware responses. A **FastAPI** backend streams updates to the Flutter client over WebSockets for low-latency interaction.
 `Tech Stack: Flutter, Dart, FastAPI, WebSockets, Tavily API, Google Gemini, LangChain`
 
----
-
-### Engineering Focus
-
-| Area | What I've built |
-|---|---|
-| Systems & concurrency | Multithreaded C++ pipelines, bounded queues, worker pools, lock-free counters |
-| SDK & instrumentation | Offline payload persistence, telemetry collection, DRM/analytics schemas, cross-platform player monitoring |
-| Backend & APIs | REST services in Express.js and FastAPI, Redis caching, WebSocket real-time channels |
-| Reliability & delivery | Retry/backoff, spool-and-replay recovery, multi-stage Docker builds, CI with automated test suites |
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshav-github02&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-github02&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" height="165">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keshav-github02&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keshav-github02&theme=github_light" alt="Top languages by commit" height="200">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keshav-github02&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keshav-github02&theme=github_light" alt="Top languages by repository" height="200">
+  </picture>
 </p>
 
 ---
